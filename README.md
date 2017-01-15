@@ -1,2 +1,3 @@
+little bit about myself, and a bit more, and a bit more...
 # hello-world
 Simple hello world test repository
